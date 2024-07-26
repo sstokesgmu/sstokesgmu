@@ -29,6 +29,8 @@ Made in **Unity**, this game was completed as coursework for my two-semester ca
   
 For this project my role was **Gameplay Programmer**, **Engine Programmer**, and **Combat Designer**. I was mostly tasked with audio and UI implementation, as well as scene management and player control.
 
+[Link to Project] ()
+
 ## Early Project Footage 
 
 From the first semester of the capstone. Here I created the player and the attack strings
@@ -37,8 +39,9 @@ https://github.com/user-attachments/assets/d25238e5-8ac8-464f-a71e-7d49a0a0e5cf
 
 
 
-
-
 ![[combatsystem_757.mp4]]
+
+
+
 ![[bossfight-1.mp4]]
 ![[bossfight-2.mp4]]
