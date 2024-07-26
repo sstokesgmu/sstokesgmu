@@ -33,9 +33,7 @@ For this project my role was **Gameplay Programmer**, **Engine Programmer**, a
 
 From the first semester of the capstone. Here I created the player and the attack strings
 
-<video src="videos/player-picking-up-objects.mp4" controls>
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/d25238e5-8ac8-464f-a71e-7d49a0a0e5cf
 
 
 
