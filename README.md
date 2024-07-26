@@ -25,7 +25,7 @@
 # Finished Projects
 ## Odyseed 
 <p align="center">
-  ![OdyseedTitle](https://github.com/user-attachments/assets/9dcbf4fc-f78b-4a6e-9300-a1e98f8a2e05)
+   <img src="path/to/your/image.png" alt="Odyseed Screenshot" style="max-width: 100%;">
 </p>
 
 Made in **Unity**, this game was completed as coursework for my two-semester capstone at GMU. With a team of eight students, we set out to make a game inspired by _Legend of Zelda: Ocarina of Time_ and _Hollow Night_. **Odyseed**, is a **third-person action-adventure game** in which you take control of the young grape known as **Merlot** who travels the world of Fructerra in his quest to bring safety to his home.  
