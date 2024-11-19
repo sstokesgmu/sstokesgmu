@@ -22,7 +22,7 @@
 ## Odyseed
 <p align="center">
    <img src="https://github.com/sstokesgmu/sstokesgmu/blob/main/Docs/Completed%20Projects/Odyseed/pictures/OdyseedTitle.png" alt="Odyseed Screenshot" style="max-width: 100%;">
-
+</p>
 
 Made in **Unity**, this game was completed as coursework for my two-semester capstone at GMU. With a team of eight students, we set out to make a game inspired by _Legend of Zelda: Ocarina of Time_ and _Hollow Night_. **Odyseed**, is a **third-person action-adventure game** in which you take control of the young grape known as **Merlot** who travels the world of Fructerra in his quest to bring safety to his home.  
   
@@ -31,4 +31,9 @@ For this project my role was **Gameplay Programmer**, **Engine Programmer**, a
 [Link to Build](https://github.com/sstokesgmu/sstokesgmu/blob/main/Docs/Completed%20Projects/Odyseed.md)
 [Link to Repository](https://github.com/Notjcvh/Odysseed)
 
+### How to play the game
+To play the game go to this link: [](https://drive.google.com/file/d/16vZ7crHR03YidnWHS-2Y7SYpMVB94F6W/view?usp=sharing) and download the file. Extract the zip file to any location of your choice, click **Odyseed.exe**. To see the controls press the escape key.
+
+<p align="center">
+   <img src = "Docs\Completed Projects\Odyseed\pictures\Controls.png" alt="How to play" style="max-width: 100%">
 </p>
