@@ -28,6 +28,8 @@ Made in **Unity**, this game was completed as coursework for my two-semester ca
   
 For this project my role was **Gameplay Programmer**, **Engine Programmer**, and **Combat Designer**. I was mostly tasked with audio and UI implementation, as well as scene management and player control.
 
-<a href="..\Odyseed\Odyseed.md">
-<br>
+### Link to Important Files
+- [Odyseed.md](../Odyseed/Odyseed.md)
+
+### Link to Repository
 [Link to Repository](https://github.com/Notjcvh/Odysseed)
