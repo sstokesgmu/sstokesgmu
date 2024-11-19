@@ -30,10 +30,3 @@ For this project my role was **Gameplay Programmer**, **Engine Programmer**, a
 
 [Link to Build](https://github.com/sstokesgmu/sstokesgmu/blob/main/Docs/Completed%20Projects/Odyseed.md)
 [Link to Repository](https://github.com/Notjcvh/Odysseed)
-
-### How to play the game
-To play the game go to this link: [](https://drive.google.com/file/d/16vZ7crHR03YidnWHS-2Y7SYpMVB94F6W/view?usp=sharing) and download the file. Extract the zip file to any location of your choice, click **Odyseed.exe**. To see the controls press the escape key.
-
-<p align="center">
-   <img src = "Docs\Completed Projects\Odyseed\pictures\Controls.png" alt="How to play" style="max-width: 100%">
-</p>
