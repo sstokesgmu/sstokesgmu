@@ -18,7 +18,6 @@
 
 # Finished Projects
 
-
 ## Odyseed
 <p align="center">
    <img src="https://github.com/sstokesgmu/sstokesgmu/blob/main/Docs/Completed%20Projects/Odyseed/pictures/OdyseedTitle.png" alt="Odyseed Screenshot" style="max-width: 100%;">
@@ -28,8 +27,6 @@ Made in **Unity**, this game was completed as coursework for my two-semester ca
   
 For this project my role was **Gameplay Programmer**, **Engine Programmer**, and **Combat Designer**. I was mostly tasked with audio and UI implementation, as well as scene management and player control.
 
-### Link to Important Files
-- [Odyseed.md](https://github.com/sstokesgmu/sstokesgmu/blob/main/Docs/Completed%20Projects/Odyseed/Odyseed.md)
-
-### Link to Repository
-[Link to Repository](https://github.com/Notjcvh/Odysseed)
+### Links
+- [Build and Early Concepts](https://github.com/sstokesgmu/sstokesgmu/blob/main/Docs/Completed%20Projects/Odyseed/Odyseed.md)
+- [Link to Offical Repository](https://github.com/Notjcvh/Odysseed)
